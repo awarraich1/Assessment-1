@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Coupons>
+  <Coupon>
+    <CouponNumber>1</CouponNumber>
+    <CouponID>DMIT-2018</CouponID>
+    <StartDate>2014-09-02 00:00:00:000</StartDate>
+    <EndDate>2014-09-18 00:00:00:000</EndDate>
+    <CouponDiscount>10</CouponDiscount>
+  </Coupon>
+
+  <Coupon>
+    <CouponNumber>3</CouponNumber>
+    <CouponID>bRaG-point</CouponID>
+    <StartDate>2014-11-01 00:00:00:000</StartDate>
+    <EndDate>2014-11-11 00:00:00:000</EndDate>
+    <CouponDiscount>11</CouponDiscount>
+  </Coupon>
+
+  <Coupon>
+    <CouponNumber>4</CouponNumber>
+    <CouponID>student14</CouponID>
+    <StartDate>2014-09-02 00:00:00:000</StartDate>
+    <EndDate>2015-04-30 00:00:00:000</EndDate>
+    <CouponDiscount>5</CouponDiscount>
+  </Coupon>
+</Coupons>
